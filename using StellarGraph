@@ -1,0 +1,9 @@
+# install StellarGraph if running on Google Colab
+import sys
+if 'google.colab' in sys.modules:
+  %pip install -q stellargraph[demos]==1.2.
+-----------------------------------------------------------------------
+first collected the given adjacency matrix patient files and labelled as either 0 or 1
+By using stellargraph package it created a object 
+----------------------------------------------------
+To feed data into the tf.Keras model, we need a data generator. For supervised graph classification, we create an instance of StellarGraph's PaddedGraphGenerator class.{ graphs is a list of StellarGraph graph objects.}
