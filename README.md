@@ -1,4 +1,4 @@
-# GNN Project for Predicting Labels from Diffusion Tensor Imaging Data
+# GNN for Alzheimer's disease prediction from Diffusion Tensor Imaging Data
 
 This project involves the implementation of a Graph Neural Network (GNN) to predict labels from a dataset derived from diffusion tensor imaging (DTI) data. Specifically, we aim to classify the graph structure into one of four categories: **AD**, **CD**, **Early Detection**, and **Late Detection**.
 
