@@ -42,9 +42,4 @@ Ensure you have the following installed:
 
 Clone the repository and install the required dependencies:
 
-```bash
-git clone https://github.com/your-username/gnn-dti-classification.git
-cd gnn-dti-classification
-pip install -r requirements.txt
-
 
